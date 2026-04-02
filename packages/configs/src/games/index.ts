@@ -5,3 +5,6 @@ export * from './literaki';
 export * from './scrabble';
 export * from './scrabbleDuel';
 export * from './superScrabble';
+export * from './goArena99';
+export * from './goArena99B';
+export * from './goArena11';
